@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920">
+  <rect width="100%" height="100%" fill="black"/>
+  <text x="540" y="800" font-size="64" font-family="Arial" fill="white" text-anchor="middle">
+    <tspan x="540" dy="0">Believe you can and</tspan>
+<tspan x="540" dy="80">you're halfway there.</tspan>
+  </text>
+  <text x="540" y="1700" font-size="36" font-family="Arial" fill="white" text-anchor="middle">
+    - Theodore Roosevelt
+  </text>
+</svg>
